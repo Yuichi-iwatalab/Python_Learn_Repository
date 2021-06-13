@@ -6,3 +6,5 @@ authir = "Kafka"
 print(authir[0])
 print(authir[1])
 print(authir[2])
+
+print(authir.upper())
